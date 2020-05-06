@@ -1,0 +1,45 @@
+---
+title : "memehongkong:你報料我來講！廣州街道主任似黑社會 初中生來信控訴 回應網友對我的意見〈蕭若元：理論蕭析〉2020-05-06 "
+title2 : "你報料我來講！廣州街道主任似黑社會 初中生來信控訴 回應網友對我的意見〈蕭若元：理論蕭析〉2020-05-06 "
+info2 : "我開左Twitter和IG啦！想睇多d可以關注：Twitter: @hkStephenSYY / IG: hkStephenSYY 加入我們的patreon：https://www.patreon.com/mrshiu 謎米新聞：news.memehk.com 謎米香港： www.memehk.com Facebook：www.facebook.com/memehkdotcom "
+date:        2020-05-06T04:26:35-07:00
+author:
+ - youtube_memehongkong
+tags:
+ - youtube
+ - memehongkong
+ - youtube_memehongkong
+ - 2020_05
+ - 2020_0506
+ - 2020_0506_04
+categories:
+ - 2020_0506
+#icon:        "fas fa-lock-open"
+#resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
+---
+
+{{< mydiv text="memehongkong:我開左Twitter和IG啦！想睇多d可以關注：Twitter: @hkStephenSYY / IG: hkStephenSYY 加入我們的patreon：https://www.patreon.com/mrshiu 謎米新聞：news.memehk.com 謎米香港： www.memehk.com Facebook：www.facebook.com/memehkdotcom "
+>}}
+<br>
+
+
+{{< my2mp4withjpgdownload mp4="20200506_iaajpotgcls.webm"
+>}}
+
+{{< my2jpgexist "xx1.jpg" >}}<br>
+{{< my2jpgexist "xx2.jpg" >}}<br>
+{{< my2jpgexist "xx3.jpg" >}}<br>
+
+
+
+{{< mydiv text="memehongkong:你報料我來講！廣州街道主任似黑社會 初中生來信控訴 回應網友對我的意見〈蕭若元：理論蕭析〉2020-05-06 "
+>}}
+<br>
+
+{{< my2linktextonly link="https://www.youtube.com/watch?v=iaAjPOtGCls"
+>}}
+
+
+<br>
+
+{{< my2buttoncopy2clip "music.xspf"        "blue"   "red"    " 单曲 "  "复制 VLC 播放器使用的链接：单曲" >}} {{< my2buttoncopy2clip "/all.xspf"         "green"  "black"  " 全部 "  "复制 VLC 播放器使用的链接：全部" >}} {{< my2buttoncopy2clip "music.m3u8"        "blue"   "red"    " M3U  "    "复制 M3U 播放器使用的链接：单曲" >}} {{< mybr2 >}} {{< my2buttoncopy2clip ""                  "green"  "black"  " 本页 "    "复制 本页的网址 " >}} {{< my2buttoncopy2clip "/"                 "black"  "red"    " 主站 "    "复制 主站的网址 " >}} {{< mybr2 >}} {{< my2buttongoto      "/hot/endothers/"   "blue"   "red"    " 月份"   "转到月份总目录" >}} {{< my2buttongoto      "/hot/alltags/"     "green"  "blue"   " 列表"   "转到文章总列表" >}} {{< my2buttongoto      "/hot/helpxspf/"    "green"  "blue"   " 播放器" "如何使用 VLC 播放器或者 IPTV 播放器的教程" >}} 
